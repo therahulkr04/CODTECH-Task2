@@ -1,8 +1,10 @@
 # CODTECH-Task2
 
-
-
-
+Name- RAHUL KUMAR SINGH
+Company: CODTECH IT SOLUTIONS
+ID: CT08DS8558
+Domain: CYBER SECURITY & ETHICAL HACKING
+Duration: September 25, 2024 to October 25 2024
 
 
 Explanation of the Code:
@@ -23,3 +25,6 @@ Usage:
 1. Run the script in a Python environment.
 2. Enter the target IP address or URL when prompted.
 3. The tool will output the results of the port scan, any HTTP header issues, and a placeholder message for software version checks.
+
+![image](https://github.com/user-attachments/assets/2a598696-063a-4820-a820-48ca457dc06c)
+
